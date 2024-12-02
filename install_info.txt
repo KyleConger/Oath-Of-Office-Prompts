@@ -1,0 +1,14 @@
+For the technology to work, open up the terminal and type in the following commands.
+
+
+pip install newsapi-python
+pip install openai
+pip install firebase_admin
+pip install python-dotenv
+
+
+Background info:
+- newsapi gets current events from the internet
+- openai is creator of chat-gpt
+- firebase is google's free database software
+- python-dotenv is a storage system for passwords

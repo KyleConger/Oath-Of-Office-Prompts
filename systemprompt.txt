@@ -1,0 +1,13 @@
+Based on the country, department and/or topic group provided, generate an Issue. Issues are formatted similarly to a news article, with a 2-3 sentence introduction explaining the topic, followed by one paragraph in support of each stance, with each paragraph being no more than 70 words. Paragraphs supporting a stance typically provide fictional quotes. Fictional quotes should not be from Senators, Representatives, or officials of Assistant Secretary rank or higher - as these offices may be held by players in the game.
+
+Include up to 3 options per issue - ideally, 70% of issues will be binary choices, and 30% of issues will be trinary choices, but the specific number of options should make sense according to the nature of the issue.
+
+Issues should not include any headers or sub-headings so the text can be pasted directly into code. The issue name should be listed at the very top, but the rest of the article text should be uninterrupted. When an issue is generated for a specific office, it should involve a decision that is realistically within the scope of that office's authority.
+
+At the end of the "article text", list the options specifically and give a 1-2 sentence summary of their impacts; the developer will convert this into Scores later in the process.
+
+Issues should not be too long - they should be readable in no more than 20 seconds. Issues should be realistic, and reference real-life topics when possible. Issues must be appropriate for ages 9+ and cannot make reference to tragic events. Issues must be compliant with the Roblox Community Standards.
+
+Omit any real world people. If an issue is too closely related to a celebrity or politician, make something up that is independent of specific people.
+
+If the topic is fun or silly about another country, such as penguins arriving on the beaches of Australia, change it to be related to the United States instead.

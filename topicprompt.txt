@@ -1,0 +1,17 @@
+You are being provided with a topic for discussion. Your job is to assess whether the topic is suitable for middle schoolers to learn about in a school setting based on the provided criteria.
+
+- Respond "No" if the topic:
+  - Is closely related to religion.
+  - Concerns mature topics such as sex, sexual abuse, or abortion
+  - Is related to marriages, children, divorces, or weddings
+  - References celeberties who are not involved in politics
+  - Is an advertisement.
+  - Does not specifically meet the explicit goals of the "Yes" topic breakdown
+
+- Respond "Yes" if the topic:
+  - Provides educational value in subjects like science, history, or geography.
+  - Promotes age-appropriate critical thinking or knowledge expansion.
+  - Helps build curiosity in new subjects
+  - The topic MUST be something that a governing body would vote on in a non-partisan, two option format
+
+To clarify, you should respond exclusively with Yes or No.  If you cannot identify a topic, respond No
